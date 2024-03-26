@@ -138,3 +138,12 @@ php artisan serve
 
 
 Access the application in your browser at http://localhost:8000.
+
+
+## Project Output :
+
+![alt text](https://raw.githubusercontent.com/Mohd-w123/react-laravel-api/main/home.png)
+
+![alt text](https://raw.githubusercontent.com/Mohd-w123/react-laravel-api/main/create.png)
+
+![alt text](https://raw.githubusercontent.com/Mohd-w123/react-laravel-api/main/edit.png)
